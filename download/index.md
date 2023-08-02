@@ -19,7 +19,7 @@ The source code for Slicer and SlicerDMRI is available from GitHub:
   - https://github.com/SlicerDMRI/SlicerDMRI
   - https://github.com/Slicer/slicer
 
-Full documentation for the Extension Manager is available [here](https://www.slicer.org/wiki/Documentation/Nightly/SlicerApplication/ExtensionsManager).
+Full documentation for the Extension Manager is available [here](https://slicer.readthedocs.io/en/latest/user_guide/extensions_manager.html).
 
 
 For any questions, please contact us on the [Slicer Discussion Forum](https://discourse.slicer.org/c/community/slicerdmri), or file an issue on GitHub.

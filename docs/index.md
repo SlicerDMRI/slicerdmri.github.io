@@ -14,7 +14,7 @@ After reviewing the material below, for usage questions please visit the [Slicer
 
 General Slicer guide
 ---------------------
-* [Slicer training](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Training)
+* [Slicer training](https://www.slicer.org/w/index.php/Documentation/Nightly/Training)
 
 Tutorials and sample data
 ---------------------
@@ -28,13 +28,13 @@ Tutorials and sample data
 
 Individual Slicer module documentation pages
 ---------------------
-* [Slicer nightly documentation of Diffusion MRI modules](http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly#Modules_by_category_Diffusion)
+* [Slicer nightly documentation of Diffusion MRI modules](https://slicer.readthedocs.io/en/latest/user_guide/modules/index.html#diffusion)
 
 For developers
 ---------------------
 * [Source code of SlicerDMRI and whitematteranalysis](https://github.com/SlicerDMRI)
 * [DICOM Tractography Connectathon at RSNA 2017](https://qiicr.gitbooks.io/dicom4qi/content/instructions/tractography-results-dicom-tr.html)
-* [Python code to access tensor data from a DTI volume](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/ScriptRepository#Access_values_in_a_DTI_tensor_volume)
+* [Python code to access tensor data from a DTI volume](https://slicer.readthedocs.io/en/latest/developer_guide/script_repository/volumes.html#access-values-in-a-dti-tensor-volume)
 
 * Please consider adding a "star" to these GitHub repositories:
     * [https://github.com/SlicerDMRI/SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI)

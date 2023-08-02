@@ -7,7 +7,7 @@ order: 2
 
 How to cite SlicerDMRI in publications
 --------------------------------------
-* How to cite the [Slicer platform](http://wiki.slicer.org/slicerWiki/index.php/CitingSlicer)
+* How to cite the [Slicer platform](https://slicer.readthedocs.io/en/latest/user_guide/about.html#how-to-cite)
 * An example of how to cite SlicerDMRI (modify the sentence according to your use case):
 
     "We performed diffusion MRI tractography and/or analysis and/or visualization in 3D Slicer (https://www.slicer.org/) via the SlicerDMRI project (http://dmri.slicer.org) (Zhang et al. 2020; Norton et al. 2017)."
