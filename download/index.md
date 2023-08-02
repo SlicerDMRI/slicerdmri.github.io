@@ -5,9 +5,9 @@ permalink: /download/
 order: 5
 ---
 
-SlicerDMRI is a [3D Slicer](http://www.slicer.org) extension.
+SlicerDMRI is a [3D Slicer](https://www.slicer.org/) extension.
 
-First, [download and install 3D Slicer](http://download.slicer.org/) for your platform (Mac, Windows, or Linux). 
+First, [download and install 3D Slicer](https://download.slicer.org/) for your platform (Mac, Windows, or Linux).
 
 Then, install the SlicerDMRI extension using the Slicer extension manager. *Please make sure to restart Slicer after installing the extension!*. 
 

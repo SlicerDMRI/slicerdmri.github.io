@@ -37,8 +37,8 @@ For developers
 * [Python code to access tensor data from a DTI volume](https://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/ScriptRepository#Access_values_in_a_DTI_tensor_volume)
 
 * Please consider adding a "star" to these GitHub repositories:
-    * [http://github.com/SlicerDMRI/SlicerDMRI](http://github.com/SlicerDMRI/SlicerDMRI)
-    * [http://github.com/Slicer/slicer](http://github.com/slicer/slicer)
+    * [https://github.com/SlicerDMRI/SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI)
+    * [https://github.com/Slicer/Slicer](https://github.com/Slicer/Slicer)
     ![While logged in to GitHub, please visit the two links above and select the "Star" button at the top right of the screen](../images/repo_star.png)
 
 Acknowledgments
