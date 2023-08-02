@@ -33,6 +33,17 @@ Individual Slicer module documentation pages
 ---------------------
 * [Slicer nightly documentation of Diffusion MRI modules](https://slicer.readthedocs.io/en/latest/user_guide/modules/index.html#diffusion)
 
+Complementary Slicer extensions
+-------------------------------
+A number of other Slicer extensions complement [SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI) for
+diffusion-weighted MRI data analysis tasks. These extensions include:
+
+- [DiffusionQC](https://github.com/pnlbwh/SlicerDiffusionQC): quality checking of diffusion-weighted MRI data.
+- [SlicerDcm2nii](https://github.com/SlicerDMRI/SlicerDcm2nii): allows to load DICOM data in Slicer using [dcm2niix](https://github.com/rordenlab/dcm2niix).
+- [UKFTractography](https://github.com/pnlbwh/ukftractography): allows to perform diffusion-weighted MRI tractography.
+
+They are typically found under the `Diffusion` category in the Slicer Extension Manager.
+
 For developers
 ---------------------
 * [Source code of SlicerDMRI and whitematteranalysis](https://github.com/SlicerDMRI)
