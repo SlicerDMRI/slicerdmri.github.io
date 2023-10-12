@@ -1,4 +1,10 @@
 # slicerdmri.github.io
+
+ [![][deployment-img]][deployment-link]
+
+[deployment-img]: https://github.com/SlicerDMRI/slicerdmri.github.io/actions/workflows/pages/pages-build-deployment/badge.svg
+[deployment-link]: https://dmri.slicer.org/
+
 SlicerDMRI organization website repository
 
 # Build
