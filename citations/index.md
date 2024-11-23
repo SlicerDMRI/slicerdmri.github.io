@@ -21,12 +21,5 @@ How to cite SlicerDMRI in publications
     "We performed tractography parcellation (or anatomical tract identification) using the whitematteranalysis package and the ORG tractography atlas (https://dmri.slicer.org/atlases/) (Zhang et al. 2018; O'Donnell et al. 2007)."
     
     - [Zhang, F., Wu, Y., Norton, I., Rathi, Y., Makris, N., O’Donnell, L.J., 2018. An anatomically curated fiber clustering white matter atlas for consistent white matter tract parcellation across the lifespan. NeuroImage, 179: 429–447, 2018.](https://doi.org/10.1016/j.neuroimage.2018.06.027)
-    
-Citations
----------
-
-Below is a list of publications using 3D Slicer diffusion functionality such as tensor estimation, fiber tracking, fiber selection, and tractography visualization. The references were retrieved in Google Scholar using keywords 'SlicerDMRI', 'Slicer Tractography' and 'Slicer DTI'
 
 Please contact us on the [Slicer Discussion Forum](https://discourse.slicer.org/c/community/slicerdmri) with any questions, or suggested additions.
-
-{% include_relative References.html %}

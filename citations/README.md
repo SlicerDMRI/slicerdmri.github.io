@@ -1,1 +1,0 @@
-The citation graph on this page is rendered using: https://github.com/vkaravir/bib-publication-list (please update [our fork](https://github.com/SlicerDMRI/bib-publication-list) when updating the bib-list-min.js)
