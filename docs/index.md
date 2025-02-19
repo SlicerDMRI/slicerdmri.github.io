@@ -19,7 +19,7 @@ General Slicer guide
 Tutorials and sample data
 ---------------------
 * [DWIConverter tutorial](https://dmri.slicer.org/tutorials/dwi_converter) ([test data](https://github.com/Slicer/slicer.kitware.com-midas3-archive/releases/download/SHA256/717d68b4aee11b8ffba5dd5409ab87a658d9fbef3061a7dcd1088c0bf14a7473)): diffusion weighted image data conversion from DICOM to NRRD
-* [Slicer DTI tutorial](https://dmri.slicer.org/tutorials/diffusion_mri_analysis): General DTI overview
+* [Slicer DTI tutorial](https://dmri.slicer.org/tutorials/diffusion_mri_analysis) ([test data](https://github.com/SlicerDMRI/SlicerDMRI/releases/download/v1.0.0/Dti_tutorial_data.zip)) : General DTI overview
 * [Slicer Neurosurgical Planning tutorial](https://dmri.slicer.org/tutorials/neurosurgical_planning_dti): Interactive DTI tractography in Slicer
 * [Slicer UKF Tractography tutorial](https://dmri.slicer.org/tutorials/ukf_tractography): Multi-fiber tractography for crossing fibers
 * [Slicer Fiber Bundle Selection and Scalar Measurements tutorial](https://dmri.slicer.org/tutorials/tractography_measurement): Tractography selection and measurements for studies
