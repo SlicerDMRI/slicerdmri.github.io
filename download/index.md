@@ -17,7 +17,7 @@ Then, install the SlicerDMRI extension using the Slicer extension manager. *Plea
 The source code for Slicer and SlicerDMRI is available from GitHub:
 
   - [https://github.com/SlicerDMRI/SlicerDMRI](https://github.com/SlicerDMRI/SlicerDMRI)
-  - [https://github.com/Slicer/Slicer](https://github.com/SlicerDMRI/SlicerDMRI)
+  - [https://github.com/Slicer/Slicer](https://github.com/Slicer/Slicer)
 
 Full documentation for the Extension Manager is available [here](https://slicer.readthedocs.io/en/latest/user_guide/extensions_manager.html).
 
