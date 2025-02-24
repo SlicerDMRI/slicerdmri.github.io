@@ -2,7 +2,7 @@
 layout: default
 title: Citations 
 permalink: /citations/
-order: 2
+order: 3
 ---
 
 How to cite SlicerDMRI in publications
