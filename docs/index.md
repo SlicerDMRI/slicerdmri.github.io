@@ -2,7 +2,7 @@
 layout: default
 title: Documentation
 permalink: /docs/
-order: 3
+order: 2
 ---
 
 SlicerDMRI is an open-source project to improve and extend diffusion magnetic resonance imaging software in 3D Slicer.
